@@ -14,3 +14,7 @@ The main proposal of this project is to understand which aspects make a chocolat
 ## Analysis 
 
 ## Results 
+"Latin American beans tend to be complex. Some might be bright and fruity, with notes of dried apricots, fresh berries and dark fruit, while others taste of nuts or fresh herbs. West African chocolates are often more straightforwardly fudgy, sometimes tinged with flavors of coconut, raisins and coffee" - NY TImes 
+
+## Links 
+[Everything you don't know about chocolate](https://www.nytimes.com/2020/02/11/dining/chocolate-bar.html)
